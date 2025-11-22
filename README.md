@@ -43,3 +43,6 @@ Excited to collaborate on Data Science projects, Power BI dashboards, ML models,
 
 📧 Email: shashiyadav12701@gmail.com
 
+# Vision
+Learn📊 -Grow📈 -Lead🏆
+
