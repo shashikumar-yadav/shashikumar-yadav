@@ -1,24 +1,20 @@
-Absolutely! Here's a GitHub README template that mirrors the style and structure of the profile you shared, with markdown formatting and badges to make it visually appealing and recruiter-friendly:
-
----
-
-## 🧠 Welcome to My GitHub Profile
+## ✨ :sparkles: Welcome to My GitHub Profile
 
 ![Banner](https://your-banner-image-url.com)  
 <!-- Replace with your actual banner image URL if hosted -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=blue&style=plastic" alt="Visitor Count"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=green&style=plastic" alt="Visitor Count"/>
 </p>
 
 ### 😎 I'm Shashikumar ✨
 
 ---
 
-### 🧠 Aspiring Data Scientist  
+### 🧠 Aspiring Data Analyst  
 Passionate about transforming raw and unstructured data into meaningful insights, dashboards, and ML-driven solutions.
 
-### 🤖 Currently Learning AI, ML & Deep Learning  
+### 🤖 Currently Learning Data Modeling, Data Visualization along with AI & ML
 Diving deeper into Machine Learning algorithms, Python automation, cloud analytics, and real-world AI applications.
 
 ### 🌐 Open to Collaborations  
@@ -46,9 +42,7 @@ Excited to collaborate on Data Science projects, Power BI dashboards, ML models,
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/shashikumar-yadav-132aba1a1)
+- 📧 Email: shashiyadav12701@gmail.com
 
----
 
-Feel free to fork this README and customize it to your style. I can also help you design a matching banner or add GitHub stats and contribution graphs if you'd like.
