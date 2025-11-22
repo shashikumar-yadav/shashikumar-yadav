@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=green&style=plastic" alt="Visitor Count"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikumar-yadav&label=Profile%20views&color=green&style=flat" alt="shashikumar-yadav" /> </p>
 
 ### 😎 I'm Shashikumar ✨
 
