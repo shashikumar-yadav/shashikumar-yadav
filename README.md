@@ -41,7 +41,7 @@ Excited to collaborate on Data Science projects, Power BI dashboards, ML models,
 <a href="https://linkedin.com/in/www.linkedin.com/in/shashikumar-yadav-132aba1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashikumar-yadav-132aba1a1" height="20" width="20" /></a>
 </p>
 
-📧 Email: shashiyadav12701@gmail.com
+📧- shashiyadav12701@gmail.com
 
 ## 🔮 Vision
 Learn📊 -Grow📈 -Lead🏆
