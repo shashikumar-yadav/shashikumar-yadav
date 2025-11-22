@@ -7,7 +7,8 @@
 ---
 
 ### 🧠 Aspiring Data Analyst  
-Passionate about transforming raw and unstructured data into meaningful insights, dashboards, and ML-driven solutions.
+Aspiring Data Analyst with hands-on experience in Power BI Desktop, data cleaning, building insightful dashboards and data models. Skilled in Power BI Services, 
+I manage workspace monitoring and ensure role-based access to reports and workspaces. My focus lies in transforming raw data into actionable insights that drive smarter decision-making.
 
 ### 🤖 Currently Learning Data Modeling, Data Visualization along with AI & ML
 Diving deeper into Machine Learning algorithms, Python automation, cloud analytics, and real-world AI applications.
