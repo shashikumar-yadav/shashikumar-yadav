@@ -1,7 +1,4 @@
-## ✨ :sparkles: Welcome to My GitHub Profile
-
-![Banner](https://your-banner-image-url.com)  
-<!-- Replace with your actual banner image URL if hosted -->
+## ✨ Welcome to My GitHub Profile 🚀
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=green&style=plastic" alt="Visitor Count"/>
@@ -44,5 +41,8 @@ Excited to collaborate on Data Science projects, Power BI dashboards, ML models,
 
 - 💼 [LinkedIn](www.linkedin.com/in/shashikumar-yadav-132aba1a1)
 - 📧 Email: shashiyadav12701@gmail.com
+- <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shashikumar-yadav-132aba1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashikumar-yadav-132aba1a1" height="30" width="40" /></a>
+</p>
 
 
